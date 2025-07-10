@@ -14,13 +14,10 @@
 ##  Структура проекта
 
 ```
-├── data/               # Данные (при необходимости)
-├── notebooks/          # Jupyter ноутбуки с шагами
-├── models/             # Сохранённые модели
-├── visuals/            # Графики и изображения
-├── src/                # Скрипты (при необходимости)
-├── README.md           # Этот файл
-├── requirements.txt    # Зависимости проекта
+├── Insurance_charges_predict.ipynb    
+├── README.md          
+├── requirements.txt    
+
 ```
 
 ## Используемые признаки
