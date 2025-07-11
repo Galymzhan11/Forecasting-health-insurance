@@ -45,20 +45,20 @@
 | Model            | RMSE (CV) |
 | ---------------- | --------- |
 | LinearRegression | \~5698    |
-| RandomForest     | \~4817    |
+| RandomForest     | \~4806    |
 | GradientBoosting | \~4706    |
-| XGBoost          | \~4982    |
+| XGBoost          | \~4984    |
 
 ### Hold‑out Metrics
 
 | Model            | RMSE   | MAE    | R²     |
 | ---------------- | ------ | ------ | ------ |
 | LinearRegression | 5556.1 | 3958.2 | 0.8320 |
-| RandomForest     | 4592.9 | 2554.3 | 0.8852 |
-| GradientBoosting | 4428.2 | 2606.5 | 0.8933 |
-| XGBoost          | 4725.5 | 2780.0 | 0.8785 |
+| RandomForest     | 4592.9 | 2554.3 | 0.8867 |
+| GradientBoosting | 4428.2 | 2606.5 | 0.8920 |
+| XGBoost          | 4725.5 | 2780.0 | 0.8792 |
 
-**Лучшая модель:** `GradientBoosting` с RMSE = 4428.2 и R² = 0.8933
+**Лучшая модель:** `GradientBoosting` с RMSE = 4428.2 и R² = 0.8920
 
 ## Визуализация и интерпретация
 
